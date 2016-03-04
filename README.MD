@@ -10,5 +10,6 @@
 [The Float Label Pattern](http://bradfrost.com/blog/post/float-label-pattern/)
   
 
-好吧，最近突然发现这个是安卓的Support-Library中有的内容。。。。。
+好吧，最近突然发现这个是安卓的[Support-Library](http://android-developers.blogspot.com/2015/05/android-design-support-library.html)中有的内容。。。。。
+
 居然忽略了这个插件。
